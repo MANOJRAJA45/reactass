@@ -15,6 +15,24 @@
     <script type="text/babel">
 //React Code here
  ReactDOM.render(<div></div>,document.getElementById('root'));
+ function Component() {
+      return (<div>
+        <div className="blocks">
+          <div class="yellow"></div>
+          <div class="yellow"> </div>
+        </div>
+        <div className="blocks">
+          <div class="red"> </div>
+        </div>
+        <div className="blocks" id="blueblockchange">
+          <div class="blue"> </div>
+          <div class="blue"> </div>
+          <div class="blue"> </div>
+        </div>
+      </div>)
+    }
+    ReactDOM.render(<React.StrictMode><Component /></React.StrictMode>, document.getElementById('root'));
+ 
 
 </script>
 <!--
