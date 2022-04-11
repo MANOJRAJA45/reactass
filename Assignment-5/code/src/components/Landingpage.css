@@ -1,0 +1,13 @@
+.landingpage{
+    height:100%;
+    width:100%;
+    display:flex;
+  }
+  .imagediv{
+    width:90%;
+  }
+  .enterdiv{
+    width:9%;
+    padding-top: 260px;
+  }
+  
