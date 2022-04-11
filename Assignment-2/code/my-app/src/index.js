@@ -10,7 +10,7 @@ const employee = {
   location: 'New York',
   bloodGroup: 'B+',
   age: 28,
-  profileImg: 'https://www.w3schools.com/howto/img_avatar.png'
+  profileImg: 'https://www.w3schools.com/howto/img_avatar.png',
        }
 
 ReactDOM.render(
