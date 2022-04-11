@@ -1,0 +1,27 @@
+ 
+{
+    "user":
+                [
+            {"name":"IPL",
+            "location":"MUMBAI",
+            "likes":"999 likes",
+            "description": "YEH AB NORMAL HAI",
+            "PostImage": "images/vivoipl.jpg",
+            "date": "26  Mar 2022"
+            },
+            {"name":"ROHIT SHARMA",
+            "location":"Pune",
+            "likes":"9999 likes",
+            "description": "HITMAN PULL SHOT ROCKSTAR",
+            "PostImage": "images/rohitsix.jpg",
+            "date": "4  Apr 2022"
+            },
+            {"name":"HITMAN",
+            "location":"mumbai",
+            "likes":"454545 likes",
+            "description": "JUST BAT LIKE HITMAN",
+            "PostImage": "images/rothree.jpg",
+            "date": "29 May 2022"
+            }
+            ]
+}

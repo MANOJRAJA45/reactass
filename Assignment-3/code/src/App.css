@@ -1,0 +1,98 @@
+.site-container{
+  height: 100vh;
+  width:100vw;
+}
+.headerinfo{
+  display: flex;
+  height: 18%;
+  background: rgba(126,130,116,0.1);
+  border-top:  2px solid black;
+}
+.hone{
+  width:33%;
+  text-align: center;
+  padding-top: 35px;
+  font-size: 25px;
+}
+.htwo{
+  width:33%;
+  text-align: center;
+  
+}
+.hthree{
+  width:33%;
+  text-align: center;
+  padding-top: 35px;
+  
+  
+}
+.btn{
+  
+  height: 30px;
+  width: 80px;
+  font-size: 19px;
+  color: white;
+  background-color: black;
+}
+.customer-info{
+  border:1px solid grey;
+  height:22%;
+  width:92%;
+  margin-top: 3%;
+  margin-left: 3%;
+  padding-left: 1%;
+  border-color: grey;
+}
+.order-info{
+  display: flex;
+  height:16%;
+  width:92%;
+  margin-top: 3%;
+  margin-left: 3%;
+  padding-left: 1%;
+  background: rgba(126,130,116,0.1);
+  border:1px solid rgba(126,130,116,0.1);
+
+
+}
+.oone{
+  width:30.5%;
+}
+.otwo{
+  width:30.5%;
+}
+.othree{
+  width:30.5%;
+}
+.product-list{
+  border:1px solid grey;
+  display: flex;
+  height:22%;
+  width:92%;
+  margin-top: 3%;
+  margin-left: 3%;
+  padding-left: 1%;
+  border-color: grey;
+   
+}
+.boxx{
+  width:12%;
+}
+.box2{
+  width:15%;
+  margin-top: 8px;
+  margin-left: 35px;
+}
+.box3{
+  width:41.5%;
+}
+.boxinred{
+  height: 30px;
+  width: 30px;
+  margin-bottom: 15px;
+  border: 3px solid orange;
+  margin-left: 35px;
+  margin-top:58px;
+  
+  
+}

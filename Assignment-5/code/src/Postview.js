@@ -34,7 +34,7 @@ const Postview=()=> {
         </div>
         </div>
         <div className='image'>
-        <img src={post.PostImage} height='330px' width='675px'/>
+        <img src={post.PostImage} alt=" side div"height='330px' width='675px'/>
         </div>
         <div className='lastbox'>
           <div className='likebox'>
