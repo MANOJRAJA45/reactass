@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -17,7 +17,8 @@ const employeee={
   info:"hkvchaddbk kjbvbk mcvbkjba mkaj jbkvjaebe jghvh",
 
   
-};
+};+
+
 function App() {
   const {name,id,appointment,email,phone,status,door,time,profileimg,nameid,info}=employeee;
   
@@ -25,7 +26,7 @@ function App() {
   <div className="site-container">
   {}
   <div className='headerinfo'>
-    <div className='hone'>{arrow}</div>
+    <div className='hone'>{empoleyye.arrow}</div>
     <div className='htwo'>
       <h2>{name}</h2>
       <p>{id}</p>
